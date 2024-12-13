@@ -1,0 +1,26 @@
+html {
+    background-color: #F6F3EC;
+}
+
+#header {
+    background-color: #ECE4DA;
+}
+
+.nav-item {
+    color: #000;
+}
+
+#title {
+    font-family: "Yuji Mai", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.text-body-emphasis {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.lead {
+    font-size: 0.5rem;
+}

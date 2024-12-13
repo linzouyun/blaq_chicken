@@ -1,0 +1,31 @@
+html {
+    background-color: #F6F3EC;
+}
+
+#header {
+    background-color: #ECE4DA;
+}
+
+@media (min-width: 1001px) {
+    video {
+        width: 950px;
+    }
+}
+
+@media (max-width: 1000px) and (min-width: 770px) {
+    video {
+        width: 700px;
+    }
+}
+
+@media (max-width: 769px) {
+    video {
+        width: 450px;
+    }
+}
+
+@media (max-width: 500px) {
+    video {
+        width: 350px;
+    }
+}

@@ -1,0 +1,88 @@
+html {
+    background-color: #F6F3EC;
+}
+
+#header {
+    background-color: #ECE4DA;
+}
+
+#head-title {
+    font-family: "Parkinsans", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: 
+}
+
+@media (min-width: 1001px) {
+    #hayung-pic {
+        height: 300px;
+        float: right;
+        margin: 50px;
+    }
+    
+    #limuy-pic {
+        height: 300px;
+        float: left;
+        margin: 50px;
+    }
+
+    #chicken-pic {
+        height: 300px;
+        float: right;
+        margin: 50px;
+    }
+
+    #back-pic {
+        height: 300px;
+        float: left;
+        margin: 50px;
+    }
+}
+
+@media (max-width: 1000px) and (min-width: 770px) {
+    #hayung-pic {
+        width: 500px;
+        margin: 20px;
+    }
+
+    #limuy-pic {
+        width: 500px;
+        margin: 20px;
+    }
+
+    #chicken-pic {
+        width: 500px;
+        margin: 20px;
+    }
+
+    #back-pic {
+        width: 500px;
+        margin: 20px;
+    }
+}
+
+@media (max-width: 769px) {
+    #hayung-pic {
+        width: 300px;
+        margin: 20px;
+    }
+
+    #limuy-pic {
+        width: 300px;
+        margin: 20px;
+    }
+
+    #chicken-pic {
+        width: 300px;
+        margin: 20px;
+    }
+
+    #back-pic {
+        width: 300px;
+        margin: 20px;
+    }
+}
+
+
+/* height="250px" class="float-lg-end m-5" */
